@@ -1,7 +1,7 @@
-<h1 align="center">Olá, eu sou o [SEU NOME] 👋</h1>
+<h1 align="center">Olá, eu sou o Mauricio Squilante 👋</h1>
 
 <p align="center">
-  Técnico em Informática | Estudando Ciência da Computação | Em busca de estágio em desenvolvimento
+  Formado pelo Colégio Cruzeiro do Sul no curso técnico em informática | Futuro estudante de Ciência da Computação | Em busca de estágio em desenvolvimento.
 </p>
 
 ---
@@ -10,11 +10,11 @@
 
 - 🎓 Técnico em Informática, iniciando Ciência da Computação
 - 💻 Estudando **Python** e lógica de programação todos os dias
-- 🔭 Trabalhando atualmente em: *[nome do projeto atual]*
+- 🔭 Trabalhando atualmente em: *Automação e a criação de bots*
 - 🌱 Aprendendo: Python, Git/GitHub, e os fundamentos de desenvolvimento de software
 - 🎯 Objetivo: conseguir meu primeiro estágio em desenvolvimento
 - 💬 Me chame para falar sobre: projetos, estudos ou oportunidades de estágio
-- 📫 Como me encontrar: [seu e-mail] | [link do LinkedIn]
+- 📫 Como me encontrar: [squilantemauricio@gmail.com] | [link do LinkedIn]
 
 ---
 
@@ -51,7 +51,7 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact" />
 </p>
 
-> Troque "SEU_USUARIO" pelo seu usuário do GitHub nos dois links acima.
+
 
 ---
 
